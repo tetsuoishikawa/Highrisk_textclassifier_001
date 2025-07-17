@@ -1,7 +1,5 @@
 # Highrisk_textclassifier_001
 
-# Medical Risk Classifier Web App
-
 このアプリは、Hugging Face 上に公開された日本語テキスト分類モデル [`Tetsuo3003/highrisk_textclassifier_medical_japanese`](https://huggingface.co/Tetsuo3003/highrisk_textclassifier_medical_japanese) を使用し、Streamlit Cloud 上で「リスクあり／なし」の判定を行うWebアプリです。
 
 ## 🔧 使用方法
