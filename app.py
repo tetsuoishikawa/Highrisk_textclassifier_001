@@ -2,7 +2,7 @@ import streamlit as st
 from transformers import pipeline
 
 # タイトル
-st.title("🩺 ハイリスク分類モデル（日本語の医療会話文が対象）")
+st.title("🩺 ハイリスク分類モデル　　　　（日本語の医療会話文が対象）")
 
 # モデル情報
 model_name = "Tetsuo3003/highrisk_textclassifier_medical_japanese"
